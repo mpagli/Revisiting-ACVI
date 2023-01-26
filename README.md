@@ -1,2 +1,2 @@
 # Revisiting-ACVI
-Code to reproduce experiments from the paper "Revisiting the ACVI method for Constrained Variational Inequalities" 
+Code to reproduce experiments from the paper "A Primal-dual Approach for Solving Variational Inequalities with General-form Constraints" 
